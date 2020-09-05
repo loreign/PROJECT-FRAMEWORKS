@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One|Gupter&display=swap');
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+
+body {
+  font-family: 'Gupter', serif;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: #F7DEBF;
+}
